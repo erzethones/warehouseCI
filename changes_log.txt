@@ -1,0 +1,11 @@
+[CHANGES LOG]
+
+- 27 NOVEMBER 2016 
+	:> Memulai developing system login WareHouse_CI
+
+- 28 NOVEMBER 2016
+	:> System log in FINISH
+
+- 03 JULI 2017
+	:> Menambahkan sistem funcDatabase ke dalam library, untuk handle changeslog data.
+
